@@ -200,3 +200,26 @@ export const images = {
   trash,
   user,
 };
+
+export const icons = {
+  arrowBack,
+  arrowDown,
+  arrowRight,
+  bag,
+  check,
+  clock,
+  dollar,
+  envelope,
+  home,
+  location,
+  logout,
+  minus,
+  pencil,
+  person,
+  phone,
+  plus,
+  search,
+  star,
+  trash,
+  user,
+};
